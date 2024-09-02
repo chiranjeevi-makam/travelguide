@@ -1,0 +1,33 @@
+.homePageLayout{
+    background-color:#eef4f7 ; 
+    background-size: cover;
+      
+    display: flex; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: center;
+
+} 
+.mainHeadingStyle{
+    color:  #334155; 
+    font-family: 'Roboto';
+    letter-spacing: 2px;  
+    padding-bottom: 0px; 
+    margin-bottom: 0px;
+    
+} 
+.MainDeadLine{
+    color: #52bbf0; 
+    width: 200px; 
+    padding-top: 0px;  
+    margin-top: 0px; 
+    
+    
+} 
+.list{
+    display: flex;
+    flex-wrap: wrap; 
+    flex-direction: row; 
+    list-style: none; 
+    
+}
